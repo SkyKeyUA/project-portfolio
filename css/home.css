@@ -371,7 +371,6 @@
 }
 .columns-blog__img {
   aspect-ratio: 312 / 226;
-  width: 100%;
 }
 .columns-blog__img img {
   border-radius: 0.5rem 0.5rem 0 0;
