@@ -1,0 +1,25 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--primary-text);
+  font-family: var(--main-font-family);
+  background-color: var(--primary-bg);
+}
+.wrapper {
+  min-height: 100%;
+  overflow: clip;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+[class*='__container'] {
+  max-width: 84.375rem; /* 1350/16 */
+  margin-inline: auto;
+  padding-inline: 0.9375rem; /* 15/16 */
+}

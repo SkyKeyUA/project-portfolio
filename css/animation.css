@@ -1,0 +1,15 @@
+@keyframes opacity {
+  to {
+    opacity: 1;
+  }
+}
+@keyframes translate-top {
+  to {
+    transform: translateY(0);
+  }
+}
+@keyframes scale-basic {
+  to {
+    transform: scale(1);
+  }
+}
