@@ -1,27 +1,45 @@
 :root {
   /* fonts */
-  --main-font-family: 'Lato', serif;
+  --main-font-family: 'Work Sans', sans-serif;
 
   /* colors */
-  --primary-title: #666666;
-  --primary-text: #000000;
+  --primary-text: #556070;
+  --primary-bg: #ffffff;
+  --img-bg: #f0f1f3;
+  --menu-text: #333333;
+  --experience-number: #424e60;
+  --experience-text: #697484;
+  --portfolio-card-text: #87909d;
+  --portfolio-card-border: #e6e8eb;
+  --pagination-dot: #c3c7ce;
+  --pagination-dot-active: #210c33;
+  --discuss-text: #a5acb5;
+  --link-bg: #a53dff;
+  --title-color: #132238;
+  --blog-title: #333333;
+  --testimonial-text: #2b384c;
+  --global-black: #000000;
 
-  --pramary-bg: #ffffff;
-  --second-bg: #e6e6e6;
+  --google-first-letter: #1e85f5;
+  --google-second-letter: #f84336;
+  --google-third-letter: #fcbc1e;
+  --google-fith-letter: #2ea84d;
+  --dribbble-icon: #ea4c89;
+  --linkedin-icon: #006699;
+  --amazon-icon: #ff9900;
+  --spotify-icon: #45d662;
 
-  --testamonials-card-border-color: #c0c0c0;
+  --decor-background-color: #ffc8c8;
+  --first-gradient-hero: rgba(218, 77, 241, 0.4);
+  --second-gradient-hero: rgba(196, 245, 233, 0.7);
 
-  --person-first-card-bg: #149376;
-  --person-second-card-bg: #2d61ae;
-  --person-third-card-bg: #b58429;
+  --img-box-shadow: 0px 24px 116px 0px rgba(43, 56, 76, 0.09);
+  --icons-box-shadow: 0px 12px 64px 0px rgba(28, 25, 25, 0.12);
+  --cards-box-shadow: 32px 32px 124px 0px rgba(43, 56, 76, 0.1);
+  --background-box-shadow: 0px 36px 105px 0px rgba(43, 56, 76, 0.1);
+  --row-planning-shadow-box: 0px 32px 96px 0px rgba(28, 25, 25, 0.16);
+  --information-shadow-box: 0px 59px 124px 0px rgba(0, 0, 0, 0.12);
+  --hover-link-box-shadow: 1px 1px 5px #a53dff;
 
-  --hover-input: #fafafa;
-
-  --phone-image-color: invert(42%) sepia(99%) saturate(334%) hue-rotate(116deg) brightness(90%)
-    contrast(98%);
-  --youtube-image-color: brightness(0) saturate(100%) invert(14%) sepia(76%) saturate(4258%)
-    hue-rotate(353deg) brightness(102%) contrast(125%);
-  --hover-icon: brightness(0) invert(28%) sepia(78%) saturate(3802%) hue-rotate(236deg)
-    brightness(98%) contrast(97%);
-  --img-filter: brightness(0) invert(1);
+  --active-link-background: rgba(237, 216, 255, 0.5);
 }
